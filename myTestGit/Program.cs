@@ -10,6 +10,9 @@ namespace myTestGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello 1");
+
+            Console.ReadKey(); // Задержка
         }
     }
 }
